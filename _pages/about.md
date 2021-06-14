@@ -3,6 +3,8 @@ layout: page
 title: About
 ---
 
+Hi. My name is Sergey.
+
 Sidey is a simple and minimalistic jekyll blogging theme.
 
 ### Features
