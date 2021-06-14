@@ -1,4 +1,4 @@
-destination: public
+destination: _deploy
 site: Sidey
 url: #yoururl
 title: Sidey
