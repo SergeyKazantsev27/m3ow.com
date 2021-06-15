@@ -167,6 +167,11 @@ main {
 
 
 @media screen and (max-width: 45rem ) {
+header,section {
+	//padding:1rem;
+	overflow: scroll;
+}
+
 header li {
     display: inline;
 	margin-right: 1rem;
