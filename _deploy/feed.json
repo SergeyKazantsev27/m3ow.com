@@ -1,0 +1,37 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Sidey",
+    "home_page_url": "/",
+    "feed_url": "/feed.json",
+    "description": "Simple and minimalistic jekyll blogging theme.",
+    "icon": "/apple-touch-icon.png",
+    "favicon": "/favicon.ico",
+    "expired": false,
+    
+    "author": "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}",
+    
+"items": [
+    
+        {
+            "id": "/2021/06/16/hello-world/",
+            "title": "Hello World!",
+            "summary": "Hello World - m3ow.com",
+            "content_text": "Hello World",
+            "content_html": "<p>Hello World</p>",
+            "url": "/2021/06/16/hello-world/",
+            
+            
+            
+            "tags": ["seo","programming","filmmaking"],
+            
+            "date_published": "2021-06-16T00:00:00+04:00",
+            "date_modified": "2021-06-16T00:00:00+04:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        }
+    
+    ]
+}

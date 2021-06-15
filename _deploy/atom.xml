@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Sidey</title>
+ <link href="/atom.xml" rel="self"/>
+ <link href="/"/>
+ <updated>2021-06-16T00:55:28+04:00</updated>
+ <id></id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Hello World!</title>
+   <link href="/2021/06/16/hello-world/"/>
+   <updated>2021-06-16T00:00:00+04:00</updated>
+   <id>/2021/06/16/hello-world</id>
+   <content type="html">&lt;p&gt;Hello World&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
